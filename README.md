@@ -3,7 +3,7 @@
 
 ## 第三方库
 
-* (wild-angular)[https://github.com/WildDogTeam/lib-js-wildangular]
+* [wild-angular](https://github.com/WildDogTeam/lib-js-wildangular )
 * wild-react
 * wild-vue
 
