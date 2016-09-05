@@ -8,7 +8,7 @@
 * [wild-react](https://github.com/WildDogTeam/lib-js-wildreact) 野狗与react 结合的库，可以将野狗的数据同步与react的单行数据同步结合。
 * [wild-rtc](https://github.com/WildDogTeam/lib-js-wildRTC) 野狗与webrtc结合的库
 * [wild-geo](https://github.com/WildDogTeam/lib-js-wildgeo) 野狗与geo查询结合的库，结合其他地图api可以实现一定范围内的实时geo查询。
-
+* 
 
 ## token-generator token 生成器，用来生成第三方认证的token
 
@@ -22,7 +22,10 @@
 * [wdog](https://github.com/noman798/wdog) 一个命令行工具，可以方便的在命令行更新野狗的安全规则
 * [liveshell](https://github.com/WildDogTeam/liveshell) 使用野狗开发的远程shell工具
 
+## 编辑器插件
 
 ## Demo示例
 
 ## 用户贡献用例
+
+## 文章和教程
