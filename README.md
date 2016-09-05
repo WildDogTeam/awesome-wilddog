@@ -1,17 +1,9 @@
 # awesome-wilddog
 
 
-## 官方SDK
-
-* web-sdk
-* ios-sdk
-* android-sdk
-* iot-sdk
-
-
 ## 第三方库
 
-* wild-angular
+* (wild-angular)[https://github.com/WildDogTeam/lib-js-wildangular]
 * wild-react
 * wild-vue
 
