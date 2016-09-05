@@ -70,10 +70,10 @@
 ## 文章和教程
 
 ## 代码片段
-[检查数据存在](https://gist.github.com/yimengtianya/8c026cfb17e1587e2ae9)	此代码片段是检测用户数据是否存在
-[根据邮箱查找用户](https://gist.github.com/yimengtianya/d678a15a31c99dab245a)	一个通过邮箱地址查找用户的示例
-[基于角色的安全规则](https://gist.github.com/sararob/331760829a9dcb4be3e7)	使用 Wilddog 规则表达式实现基于角色的用户管理
-[获取list的元素](https://gist.github.com/yimengtianya/e6bb6e6c837847fbcc87)	获取list中的第一个数据
-[获取新增元素](https://gist.github.com/yimengtianya/c933134c17567779338a)	通过 Wilddog 实时获取新增元素
-[提取JWT数据](https://gist.github.com/yimengtianya/283d14243ea9f41ccbc9)	解析JWT帮助工具
-[获取父节点的数据快照](https://gist.github.com/yimengtianya/6bb23ec1b220c7e8c790)	获取 Wilddog 父节点的数据快照
+* [检查数据存在](https://gist.github.com/yimengtianya/8c026cfb17e1587e2ae9)	此代码片段是检测用户数据是否存在
+* [根据邮箱查找用户](https://gist.github.com/yimengtianya/d678a15a31c99dab245a)	一个通过邮箱地址查找用户的示例
+* [基于角色的安全规则](https://gist.github.com/sararob/331760829a9dcb4be3e7)	使用 Wilddog 规则表达式实现基于角色的用户管理
+* [获取list的元素](https://gist.github.com/yimengtianya/e6bb6e6c837847fbcc87)	获取list中的第一个数据
+* [获取新增元素](https://gist.github.com/yimengtianya/c933134c17567779338a)	通过 Wilddog 实时获取新增元素
+* [提取JWT数据](https://gist.github.com/yimengtianya/283d14243ea9f41ccbc9)	解析JWT帮助工具
+* [获取父节点的数据快照](https://gist.github.com/yimengtianya/6bb23ec1b220c7e8c790)	获取 Wilddog 父节点的数据快照
