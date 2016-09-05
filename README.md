@@ -70,10 +70,8 @@
 * [Hbuilder和wilddog开发聊天室](http://blog.csdn.net/StevenTQP/article/details/51582154?locationNum=15)
 * [python中使用wilddog的方法](https://www.v2ex.com/t/274658)
 * [Jack Xiao的博客](http://blog.jackxy.com/)
-* [Hbuilder和wilddog开发聊天室](http://blog.csdn.net/StevenTQP/article/details/51582154?locationNum=15
-)
+* [Hbuilder和wilddog开发聊天室](http://blog.csdn.net/StevenTQP/article/details/51582154?locationNum=15)
 
-## 文章和教程
 
 ## 代码片段
 * [检查数据存在](https://gist.github.com/yimengtianya/8c026cfb17e1587e2ae9)	此代码片段是检测用户数据是否存在
