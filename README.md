@@ -13,10 +13,10 @@
 * [WatchKit](https://github.com/WildDogTeam/lib-ios-watchkit)野狗官方	WatchKit 会提供WatchKit的基本概述和引导你如何将Wilddog应用到你的WatchKit app的过程
 * [WilddogCollection](https://github.com/WildDogTeam/lib-ios-objects)是用 Wilddog 保持了一个同步的字典，用于实时更新，比如表视图数据
 * [StreamBaseKit](https://github.com/WildDogTeam/lib-ios-streambase)会提供一个同步的数据流，它是基于 Wilddog 的 Swift 的 UI 工具包。 它展示了 Wilddog 查询作为数据流进行实时同步， 递增地去提取， 并且可以被合并或分割成多个部分
-* [Login](https://github.com/WildDogTeam/demo-ios-login)Login 是一个基于 Wilddog iOS SDK 开发的一款登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录
-* [Drawing](https://github.com/WildDogTeam/demo-ios-drawing)Drawing 是一个基于 Wilddog iOS SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果
-* [Weather](https://github.com/WildDogTeam/demo-ios-weather)Weather 是一个基于 Wilddog iOS SDK 开发的修改天气状态 demo，主要实现 Wilddog 数据多设备同步修改和加载
-* [SwiftChat](https://github.com/WildDogTeam/demo-ios-swiftchat)SwiftChat 是一个基于 Wilddog iOS SDK 开发的多人实时聊天 demo，登录之后即可聊天
+* [Login](https://github.com/WildDogTeam/demo-ios-login)是一个基于 Wilddog iOS SDK 开发的一款登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录
+* [Drawing](https://github.com/WildDogTeam/demo-ios-drawing)是一个基于 Wilddog iOS SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果
+* [Weather](https://github.com/WildDogTeam/demo-ios-weather)是一个基于 Wilddog iOS SDK 开发的修改天气状态 demo，主要实现 Wilddog 数据多设备同步修改和加载
+* [SwiftChat](https://github.com/WildDogTeam/demo-ios-swiftchat)是一个基于 Wilddog iOS SDK 开发的多人实时聊天 demo，登录之后即可聊天
 * [Danmu](https://github.com/WildDogTeam/demo-ios-danmu)是一个基于 Wilddog iOS SDK 实现的弹幕
 * [WildChat](https://github.com/WildDogTeam/demo-ios-wildchat)是一个基于 Wilddog iOS SDK 实现的简单聊天通讯类 APP
 * [WildFeed](https://github.com/WildDogTeam/demo-ios-wildfeed)是一个基于 Wilddog iOS SDK 开发的类似微博的社交应用
