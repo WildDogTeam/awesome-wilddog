@@ -1,15 +1,29 @@
 # awesome-wilddog
 
+如果你觉得列表不完善或有错误，欢迎修改。如果你有任何有关野狗的代码想加到这个列表中，随时欢迎。
+
+假设你已经对野狗的产品有一定的了解，并且翻阅过我们的[文档](https://docs.wilddog.com)。那么下面的资源可能对你有所帮助。
 
 ## 第三方库
 
+### WEB
 * [wild-vue](https://github.com/WildDogTeam/lib-js-wild-vue)野狗与Vue结合的库，可以将野狗的数据同步和vue的数据绑定结合在一起,可以少写很多数据监听的代码
 * [wild-angular](https://github.com/WildDogTeam/lib-js-wildangular)野狗与angularJS结合的库，可以将野狗的数据同步和AngularJS 的数据绑定结合在一起
 * [wild-react](https://github.com/WildDogTeam/lib-js-wildreact)野狗与react 结合的库，可以将野狗的数据同步与react的单行数据同步结合。
 * [wild-rtc](https://github.com/WildDogTeam/lib-js-wildRTC)野狗与webrtc结合的库。演示地址: [WildRTC](https://wildrtc.wilddogapp.com/)
 * [wild-geo](https://github.com/WildDogTeam/lib-js-wildgeo)野狗与geo查询结合的库，结合其他地图api可以实现一定范围内的实时geo查询。
-* [WilddogUI](https://github.com/WildDogTeam/lib-ios-wilddogui)是Wilddog iOS开源的一个lib库，可以帮助你通过借助Wilddog数据库快速开发我们平常用到的UI界面和部分功能
 * [WildChat](https://github.com/WildDogTeam/demo-js-wildchat)是使用 Wilddog 一个开源的、实时的聊天应用。它提供完全多用户，多房间，用户搜索，站内短信，聊天邀请等等。演示地址: [WildChat](http://wildchat.wilddogapp.com/)
+
+### IOS
+
+* [WilddogUI](https://github.com/WildDogTeam/lib-ios-wilddogui)是Wilddog iOS开源的一个lib库，可以帮助你通过借助Wilddog数据库快速开发我们平常用到的UI界面和部分功能
+* [WatchKit](https://github.com/WildDogTeam/lib-ios-watchkit)会提供WatchKit的基本概述和引导你如何将Wilddog应用到你的WatchKit app的过程
+* [WilddogCollection](https://github.com/WildDogTeam/lib-ios-objects)是用 Wilddog 保持了一个同步的字典，用于实时更新，比如表视图数据
+* [StreamBaseKit](https://github.com/WildDogTeam/lib-ios-streambase)会提供一个同步的数据流，它是基于 Wilddog 的 Swift 的 UI 工具包。 它展示了 Wilddog 查询作为数据流进行实时同步， 递增地去提取， 并且可以被合并或分割成多个部分
+
+
+### ANDROID
+
 
 ## token-generator token 生成器，用来生成第三方认证的token
 
@@ -27,21 +41,28 @@
 
 
 ## Demo示例
-* [Geomap](http://geomap.wilddogapp.com/)是基于Wilddog JavaScript SDK和高德LBS开放平台完成的一个地图应用，能够实现实时的geohash范围查询。
-* [Drawing](http://drawing.wilddogapp.com/)是使用Wilddog实现的画图示例。一端用户用在canvas上画图，笔画会实时传输到其他客户端，可以多人协作一起画图！
-* [Star Wars](http://starwars.wilddogapp.com/)是基于Wilddog JavaScript SDK实现的多人实时对战游戏。可以匿名对战，也可以使用微信账号登陆，以便于在积分排行榜上留名。
+
+### WEB
+
+* [Geomap](https://github.com/WildDogTeam/demo-js-geomap)是基于Wilddog JavaScript SDK和高德LBS开放平台完成的一个地图应用，能够实现实时的geohash范围查询。
+* [Drawing](https://github.com/WildDogTeam/demo-js-drawing)是使用Wilddog实现的画图示例。一端用户用在canvas上画图，笔画会实时传输到其他客户端，可以多人协作一起画图！
+* [Star Wars](https://github.com/WildDogTeam/demo-js-starwars)是基于Wilddog JavaScript SDK实现的多人实时对战游戏。可以匿名对战，也可以使用微信账号登陆，以便于在积分排行榜上留名。
 * [Danmu](https://github.com/WildDogTeam/demo-js-danmu)是基于Wilddog JavaScript SDK实现的弹幕。
 * [Crud](https://github.com/WildDogTeam/demo-js-crud)是使用野狗进行数据管理，只需要基本的DOM操作和简单的API就可以进行数据增加，持久化查询，数据修改和删除。演示地址: [Crud](http://crud.wilddogapp.com/)
-
-* [WildPad](http://wildpad.wilddogapp.com/demo/)是开源的协同文本编辑器，它可以嵌入到较大的应用中。
+* [WildPad](https://github.com/WildDogTeam/demo-js-wildpad)是开源的协同文本编辑器
 * [WildQiniu](https://github.com/WildDogTeam/demo-js-wildqiniu)是基于野狗和七牛API及Plupload开发的简单图片上传Demo。
-* [WildFeed](http://wildfeed.wilddogapp.com/)是使用野狗JavaScript SDK开发的类似的微博的社交应用。
 * [WildUpyun](https://github.com/WildDogTeam/demo-js-wild-upyun)是基于野狗结合又拍云开发的简单图片上传Demo。
+* [WildFeed](https://github.com/WildDogTeam/demo-js-wildfeed)是使用野狗JavaScript SDK开发的类似的微博的社交应用。
 * [Blog实时评论](https://github.com/indooorsman/indooorsman.github.io/blob/master/_harp/assets/js/rl-comments.js)是使用野狗开发的一个经典的实时评论功能
+* [free-comment](https://github.com/stackOverMind/free-comment) 一个使用野狗，vue和webpack的用于网页评论的插件。
 * [Timeline](http://blog.csser.me/demo-timeline/)是一个类似微博的有趣应用，可以上传图片并以时间轴的方式记录下来
-* [WatchKit](https://github.com/WildDogTeam/lib-ios-watchkit)会提供WatchKit的基本概述和引导你如何将Wilddog应用到你的WatchKit app的过程
-* [WilddogCollection](https://github.com/WildDogTeam/lib-ios-objects)是用 Wilddog 保持了一个同步的字典，用于实时更新，比如表视图数据
-* [StreamBaseKit](https://github.com/WildDogTeam/lib-ios-streambase)会提供一个同步的数据流，它是基于 Wilddog 的 Swift 的 UI 工具包。 它展示了 Wilddog 查询作为数据流进行实时同步， 递增地去提取， 并且可以被合并或分割成多个部分
+* [daily-task](https://github.com/lewis617/daily-task) 基于wilddog和angular的日常任务管理系统
+* [wild-angular-seed](https://github.com/lewis617/wild-angular-seed) wilddog和angular的种子工程
+
+### IOS
+
+
+
 * [Login](https://github.com/WildDogTeam/demo-ios-login)是一个基于 Wilddog iOS SDK 开发的一款登录 demo，其中实现的功能实例有QQ登录、微信登录、微博登录、匿名登录
 * [Drawing](https://github.com/WildDogTeam/demo-ios-drawing)是一个基于 Wilddog iOS SDK 开发的实时画图 demo，可多终端登录来一起画画，同步显示图画效果。演示地址: [Drawing](http://drawing.wilddogapp.com/)
 * [Weather](https://github.com/WildDogTeam/demo-ios-weather)是一个基于 Wilddog iOS SDK 开发的修改天气状态 demo，主要实现 Wilddog 数据多设备同步修改和加载
@@ -49,15 +70,19 @@
 * [Danmu](https://github.com/WildDogTeam/demo-ios-danmu)是一个基于 Wilddog iOS SDK 实现的弹幕
 * [WildChat](https://github.com/WildDogTeam/demo-ios-wildchat)是一个基于 Wilddog iOS SDK 实现的简单聊天通讯类 APP
 * [WildFeed](https://github.com/WildDogTeam/demo-ios-wildfeed)是一个基于 Wilddog iOS SDK 开发的类似微博的社交应用
+
+### ANDROID
+
+* [login](https://github.com/WildDogTeam/demo-android-login) 基于野狗登录的demo
+* [chat](https://github.com/WildDogTeam/demo-android-chat) 聊天demo
+* [drawing](https://github.com/WildDogTeam/demo-android-drawing) 画图demo
+
+### IOT
+
 * [智能彩灯demo](https://github.com/WildDogTeam/demo-c-rgblight)使用野狗 C/嵌入式 SDK 开发的一个智能彩灯demo
 * [空气监测demo](https://github.com/WildDogTeam/demo-c-airmonitor)使用野狗 Arduino SDK 开发的一个空气监测demo
 
 
-## 用户贡献用例
-
-* [daily-task](https://github.com/lewis617/daily-task) 基于wilddog和angular的日常任务管理系统
-* [wild-angular-seed](https://github.com/lewis617/) wilddog和angular的种子工程
-* [free-comment](https://github.com/stackOverMind/free-comment) 一个使用野狗，vue和webpack的用于网页评论的插件。
 
 ## 文章和教程
 
