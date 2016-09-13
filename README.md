@@ -3,7 +3,7 @@
 
 如果你觉得列表不完善或有错误，欢迎修改。如果你有任何有关野狗的代码想加到这个列表中，随时欢迎。
 
-假设你已经对野狗的产品有一定的了解，并且翻阅过我们的[文档](https://docs.wilddog.com)。那么下面的资源可能对你有所帮助。
+假设你已经对野狗的产品有一定的了解，并且翻阅过我们的[文档](https://docs.wilddog.com/?utm_source=github&utm_medium=referrallink&utm_content=articlename&utm_campaign=developersource0913)。那么下面的资源可能对你有所帮助。
 
  **有任何问题和建议欢迎来gitter讨论**
  
