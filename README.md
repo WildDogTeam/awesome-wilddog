@@ -1,8 +1,18 @@
 # awesome-wilddog
 
+
 如果你觉得列表不完善或有错误，欢迎修改。如果你有任何有关野狗的代码想加到这个列表中，随时欢迎。
 
 假设你已经对野狗的产品有一定的了解，并且翻阅过我们的[文档](https://docs.wilddog.com)。那么下面的资源可能对你有所帮助。
+
+ 有任何问题和建议欢迎来gitter讨论
+[![Join the chat at https://gitter.im/WildDogTeam/wilddog-issue](https://badges.gitter.im/WildDogTeam/wilddog-issue.svg)](https://gitter.im/WildDogTeam/wilddog-issue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+提bug以及改进意见到这里：
+
+https://github.com/WildDogTeam/wilddog-issue/issues
+
+
 
 ## 第三方库
 
