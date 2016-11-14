@@ -14,7 +14,8 @@
 https://github.com/WildDogTeam/wilddog-issue/issues
 
 
-
+## 命令行工具
+[wilddog-cli](https://github.com/stackOverMind/wilddog-cli)
 ## 第三方库
 
 ### WEB
