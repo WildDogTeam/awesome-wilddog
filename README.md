@@ -15,7 +15,7 @@ https://github.com/WildDogTeam/wilddog-issue/issues
 
 
 ## 命令行工具
-* [wilddog-cli](https://github.com/stackOverMind/wilddog-cli)
+* [wilddog-cli](https://github.com/stackOverMind/wilddog-cli) 使用命令行操作数据
 * [wdog](https://github.com/noman798/wdog) 一个命令行工具，可以方便的在命令行更新野狗的安全规则
 * [liveshell](https://github.com/WildDogTeam/liveshell) 使用野狗开发的远程shell工具
 
