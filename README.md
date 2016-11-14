@@ -15,7 +15,10 @@ https://github.com/WildDogTeam/wilddog-issue/issues
 
 
 ## 命令行工具
-[wilddog-cli](https://github.com/stackOverMind/wilddog-cli)
+* [wilddog-cli](https://github.com/stackOverMind/wilddog-cli)
+* [wdog](https://github.com/noman798/wdog) 一个命令行工具，可以方便的在命令行更新野狗的安全规则
+* [liveshell](https://github.com/WildDogTeam/liveshell) 使用野狗开发的远程shell工具
+
 ## 第三方库
 
 ### WEB
@@ -44,10 +47,6 @@ https://github.com/WildDogTeam/wilddog-issue/issues
 * [php](https://github.com/WildDogTeam/wilddog-token-generator-php)
 * [python](https://github.com/WildDogTeam/wilddog-token-generator-python)
 
-## 命令行工具
-
-* [wdog](https://github.com/noman798/wdog) 一个命令行工具，可以方便的在命令行更新野狗的安全规则
-* [liveshell](https://github.com/WildDogTeam/liveshell) 使用野狗开发的远程shell工具
 
 ## 编辑器插件
 
