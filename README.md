@@ -6,7 +6,21 @@ https://forum.wilddog.com
 
 如果你觉得列表不完善或有错误，欢迎修改。如果你有任何有关野狗的代码想加到这个列表中，随时欢迎。
 
-假设你已经对野狗的产品有一定的了解，并且翻阅过我们的[文档](https://docs.wilddog.com)。那么下面的资源可能对你有所帮助。
+假设你已经对野狗的产品有一定的了解，并且翻阅过我们的[文档](https://docs.wilddog.com/?utm_source=github&utm_medium=referrallink&utm_content=articlename&utm_campaign=developersource0913)。那么下面的资源可能对你有所帮助。
+
+ **有任何问题和建议欢迎来gitter讨论**
+ 
+[![Join the chat at https://gitter.im/WildDogTeam/wilddog-issue](https://badges.gitter.im/WildDogTeam/wilddog-issue.svg)](https://gitter.im/WildDogTeam/wilddog-issue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+**提bug以及改进意见到这里：**
+
+https://github.com/WildDogTeam/wilddog-issue/issues
+
+
+## 命令行工具
+* [wilddog-cli](https://github.com/stackOverMind/wilddog-cli) 使用命令行操作数据
+* [wdog](https://github.com/noman798/wdog) 一个命令行工具，可以方便的在命令行更新野狗的安全规则
+* [liveshell](https://github.com/WildDogTeam/liveshell) 使用野狗开发的远程shell工具
 
 
 ## 第三方库
@@ -37,10 +51,6 @@ https://forum.wilddog.com
 * [php](https://github.com/WildDogTeam/wilddog-token-generator-php)
 * [python](https://github.com/WildDogTeam/wilddog-token-generator-python)
 
-## 命令行工具
-
-* [wdog](https://github.com/noman798/wdog) 一个命令行工具，可以方便的在命令行更新野狗的安全规则
-* [liveshell](https://github.com/WildDogTeam/liveshell) 使用野狗开发的远程shell工具
 
 ## 编辑器插件
 
