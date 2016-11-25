@@ -110,7 +110,6 @@ https://github.com/WildDogTeam/wilddog-issue/issues
 * [wilddog和promise的结合使用](http://blog.csdn.net/jacky4504/article/details/52249209?locationNum=12)
 * [Hbuilder和wilddog开发聊天室](http://blog.csdn.net/StevenTQP/article/details/51582154?locationNum=15)
 * [python中使用wilddog的方法](https://www.v2ex.com/t/274658)
-* [Jack Xiao的博客](http://blog.jackxy.com/)
 * [Hbuilder和wilddog开发聊天室](http://blog.csdn.net/StevenTQP/article/details/51582154?locationNum=15)
 
 
