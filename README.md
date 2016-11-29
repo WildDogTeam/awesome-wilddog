@@ -102,7 +102,7 @@ https://github.com/WildDogTeam/wilddog-issue/issues
 ## 文章和教程
 
 * [使用野狗开发实时评论功能](https://www.v2ex.com/t/285527#reply1)
-* [白班功能](https://www.v2ex.com/t/295109)
+* [白板功能](https://www.v2ex.com/t/295109)
 * [视频弹幕分享](https://www.v2ex.com/t/277158#reply28)
 * [实时游戏排行榜](http://www.jianshu.com/p/8be5331d92d9)
 * [基于react聊天室](https://segmentfault.com/a/1190000004659409)
